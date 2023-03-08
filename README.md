@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm staticWagomU</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=staticwagomu&label=Profile%20views&color=0e75b6&style=flat" alt="staticwagomu" /> </p>
+<p>I like CSS, Vim and Neovim</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=staticWagomU&theme=vue)
 
