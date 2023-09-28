@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm staticWagomU</h1>
 <p>I like CSS, Vim and Neovim</p>
 
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=staticWagomU&peng=false)](https://github.com/evirunurm/github-stats)
+[![@staticWagomU Astro contributions](https://astro.badg.es/v2/contributor/staticWagomU.svg)](https://astro.badg.es/contributor/staticWagomU/)
+
 [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=staticWagomU&pie=false)](https://github.com/evirunurm/github-stats)
+
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=staticWagomU&peng=false)](https://github.com/evirunurm/github-stats)
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://github.com/staticWagomU" target="_blank">
