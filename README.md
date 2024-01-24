@@ -18,10 +18,12 @@
 </div>  
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,dotnet,cs,html,css,js,ts,lua" />
   </a>
+</p>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,vim,visualstudio,vscode,git,github" />
   </a>
