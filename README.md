@@ -5,8 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=staticWagomU)
 
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=staticWagomU&peng=false)](https://github.com/evirunurm/github-stats)
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://github.com/staticWagomU" target="_blank">
