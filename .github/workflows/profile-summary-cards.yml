@@ -17,3 +17,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARDS }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          token: ${{ secrets.PROFILE_SUMMARY_CARDS }}
