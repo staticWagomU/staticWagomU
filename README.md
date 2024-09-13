@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm staticWagomU</h1>
 <p>I like CSS, Vim and Neovim</p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticWagomU&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=staticWagomU&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=staticWagomU&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 [![](https://raw.githubusercontent.com/staticWagomU/staticWagomU/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/staticWagomU/staticWagomU/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/staticWagomU/staticWagomU/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/staticWagomU/staticWagomU/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/staticWagomU/staticWagomU/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=staticWagomU&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![@staticWagomU Astro contributions](https://astro.badg.es/v2/contributor/staticWagomU.svg)](https://astro.badg.es/contributor/staticWagomU/)
