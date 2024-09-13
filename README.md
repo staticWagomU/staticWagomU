@@ -3,7 +3,13 @@
 
 [![@staticWagomU Astro contributions](https://astro.badg.es/v2/contributor/staticWagomU.svg)](https://astro.badg.es/contributor/staticWagomU/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=staticWagomU)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticWagomU&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=staticWagomU&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=staticWagomU&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
